@@ -147,7 +147,7 @@ export default {
     readmeName: 'readme-zhCn.md',
   },
   footer: {
-    'self-reflection': '行有不得，反求诸己',
-    'thiefEasy': '破山中贼易，破心中贼难',
+    'self-reflection': '厦门德莱科仪实业有限公司',
+    'thiefEasy': '厦门德莱科智能科技有限公司',
   },
 }
